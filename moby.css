@@ -1,0 +1,1061 @@
+/* E2 */
+
+/* 0-50 */
+
+/* Mushita */
+.monsters a[href*="Mushita"]::after {
+  content: url("https://micc.garmory-cdn.cloud/obrazki/npc/e2/st-puma.gif");
+  display: block;
+  margin-top: 5px;
+}
+
+/* Kotołak */
+.monsters a[href*="Kotołak"]::after {
+  content: url("https://micc.garmory-cdn.cloud/obrazki/npc/e1/kotolak_lowca.gif");
+  display: block;
+  margin-top: 5px;
+}
+
+/* Shae Phu */
+.monsters a[href*="Shae"]::after {
+  content: url("https://micc.garmory-cdn.cloud/obrazki/npc/e2/demonszef.gif");
+  display: block;
+  margin-top: 5px;
+}
+
+/* Zorg Jednooki Baron */
+.monsters a[href*="Zorg"]::after {
+  content: url("https://micc.garmory-cdn.cloud/obrazki/npc/e2/zbir-e2-zorg.gif");
+  display: block;
+  margin-top: 5px;
+}
+
+/* Władca rzek */
+.monsters a[href*="Rzek"]::after {
+  content: url("https://micc.garmory-cdn.cloud/obrazki/npc/e2/gobmag2.gif");
+  display: block;
+  margin-top: 5px;
+}
+
+/* Gobbos */
+.monsters a[href*="Gobbos"]::after {
+  content: url("https://micc.garmory-cdn.cloud/obrazki/npc/e2/gobsamurai.gif");
+  display: block;
+  margin-top: 5px;
+}
+
+/* Tyrtajos */
+.monsters a[href*="Tyrtajos"]::after {
+  content: url("https://micc.garmory-cdn.cloud/obrazki/npc/e2/dzik.gif");
+  display: block;
+  margin-top: 5px;
+}
+
+/* Tollok Shimger */
+.monsters a[href*="Shimger"]::after {
+  content: url("https://micc.garmory-cdn.cloud/obrazki/npc/e2/tollok_shimger.gif");
+  display: block;
+  margin-top: 5px;
+}
+
+/* Szczęt alias Gładki */
+.monsters a[href*="Szczęt"]::after {
+  content: url("https://micc.garmory-cdn.cloud/obrazki/npc/e2/zbir-szczet.gif");
+  display: block;
+  margin-top: 5px;
+}
+
+/* 50-100 */
+
+/* Agar */
+.monsters a[href*="Agar"]::after {
+  content: url("https://micc.garmory-cdn.cloud/obrazki/npc/e2/glut_agar.gif");
+  display: block;
+  margin-top: 5px;
+}
+
+/* Razuglag Oklash */
+.monsters a[href*="Razuglag"]::after {
+  content: url("https://micc.garmory-cdn.cloud/obrazki/npc/e2/razuglag.gif");
+  display: block;
+  margin-top: 5px;
+}
+
+/* Foverk Turrim */
+.monsters a[href*="Foverk"]::after {
+  content: url("https://micc.garmory-cdn.cloud/obrazki/npc/e2/kobold07.gif");
+  display: block;
+  margin-top: 5px;
+}
+
+/* Owadzia Matka */
+.monsters a[href*="Owadzia"]::after {
+  content: url("https://micc.garmory-cdn.cloud/obrazki/npc/e2/zadlak-e2-owadzia-matka.gif");
+  display: block;
+  margin-top: 5px;
+}
+
+/* Vari Kruger */
+.monsters a[href*="Kruger"]::after {
+  content: url("https://micc.garmory-cdn.cloud/obrazki/npc/e2/gnoll11.gif");
+  display: block;
+  margin-top: 5px;
+}
+
+/* Furruk Kozug */
+.monsters a[href*="Furruk"]::after {
+  content: url("https://micc.garmory-cdn.cloud/obrazki/npc/e2/gnoll12.gif");
+  display: block;
+  margin-top: 5px;
+}
+
+/* Jotun */
+.monsters a[href*="Jotun"]::after {
+  content: url("https://micc.garmory-cdn.cloud/obrazki/npc/e2/kam_olbrzym-b.gif");
+  display: block;
+  margin-top: 5px;
+}
+
+/* Tollok Atamatu */
+.monsters a[href*="Atamatu"]::after {
+  content: url("https://micc.garmory-cdn.cloud/obrazki/npc/e2/tollok_jask_atamatu.gif");
+  display: block;
+  margin-top: 5px;
+}
+
+/* Tollok Utumutu */
+.monsters a[href*="Utumutu"]::after {
+  content: url("https://micc.garmory-cdn.cloud/obrazki/npc/e2/tollok_jask_utumatu.gif");
+  display: block;
+  margin-top: 5px;
+}
+
+/* Lisz */
+.monsters a[href*="Lisz"]::after {
+  content: url("https://micc.garmory-cdn.cloud/obrazki/npc/e2/lisz_demilisze.gif");
+  display: block;
+  margin-top: 5px;
+}
+
+/* Grabarz świątynny */
+.monsters a[href*="Grabarz"]::after {
+  content: url("https://micc.garmory-cdn.cloud/obrazki/npc/e2/nieu_mnich_grabarz.gif");
+  display: block;
+  margin-top: 5px;
+}
+
+/* Wielka Stopa */
+.monsters a[href*="Stopa"]::after {
+  content: url("https://micc.garmory-cdn.cloud/obrazki/npc/e2/wlochacze_wielka_stopa.gif");
+  display: block;
+  margin-top: 5px;
+}
+
+/* Podły zbrojmistrz */
+.monsters a[href*="zbrojmistrz"]::after {
+  content: url("https://micc.garmory-cdn.cloud/obrazki/npc/e2/magaz_zbrojmistrz.gif");
+  display: block;
+  margin-top: 5px;
+}
+
+/* Choukker */
+.monsters a[href*="Choukker"]::after {
+  content: url("https://micc.garmory-cdn.cloud/obrazki/npc/e2/dlawiciel5.gif");
+  display: block;
+  margin-top: 5px;
+}
+
+/* Nadzorczyni krasnoludów */
+.monsters a[href*="Nadzorczyni"]::after {
+  content: url("https://micc.garmory-cdn.cloud/obrazki/npc/e2/nadzorczyni_krasnoludow.gif");
+  display: block;
+  margin-top: 5px;
+}
+
+/* Morthen */
+.monsters a[href*="Morthen"]::after {
+  content: url("https://micc.garmory-cdn.cloud/obrazki/npc/e2/krasnolud_boss.gif");
+  display: block;
+  margin-top: 5px;
+}
+
+/* Leśne Widmo */
+.monsters a[href*="Widmo"]::after {
+  content: url("https://micc.garmory-cdn.cloud/obrazki/npc/e2/lesne_widmo.gif");
+  display: block;
+  margin-top: 5px;
+}
+
+/* Żelazoręki Ohydziarz */
+.monsters a[href*="Ohydziarz"]::after {
+  content: url("https://micc.garmory-cdn.cloud/obrazki/npc/e2/ugrape2.gif");
+  display: block;
+  margin-top: 5px;
+}
+
+/* Goplana */
+.monsters a[href*="Goplana"]::after,
+.monsters a[href*="ident-n32613"]::after,
+.monsters a[href*="ident-n147789"]::after,
+.monsters a[href*="ident-n147786"]::after {
+  content: url("https://micc.garmory-cdn.cloud/obrazki/npc/e2/goplana.gif");
+  display: block;
+  margin-top: 5px;
+}
+
+/* Gnom Figlid */
+.monsters a[href*="Figlid"]::after {
+  content: url("https://micc.garmory-cdn.cloud/obrazki/npc/e2/gnom_figlid.gif");
+  display: block;
+  margin-top: 5px;
+}
+
+/* Centaur Zyfryd */
+.monsters a[href*="Zyfryd"]::after {
+  content: url("https://micc.garmory-cdn.cloud/obrazki/npc/e2/cent-zyfryd.gif");
+  display: block;
+  margin-top: 5px;
+}
+
+/* 100-150
+    
+    /* Kambion */
+.monsters a[href*="Kambion"]::after,
+.monsters a[href*="ident-n308461"]::after,
+.monsters a[href*="ident-n308460"]::after,
+.monsters a[href*="ident-n198558"]::after {
+  content: url("https://micc.garmory-cdn.cloud/obrazki/npc/e2/kambion.gif");
+  display: block;
+  margin-top: 5px;
+}
+
+/* Jertek  */
+.monsters a[href*="Moxos"]::after,
+.monsters a[href*="ident-n308463"]::after,
+.monsters a[href*="ident-n308462"]::after,
+.monsters a[href*="ident-n45696"]::after,
+.monsters a[href*="Moxos"]::after {
+  content: url("https://micc.garmory-cdn.cloud/obrazki/npc/e2/moloch-jertek.gif");
+  display: block;
+  transform: scale(0.8);
+}
+
+/* Miłośnik rycerzy */
+.monsters a[href*="rycerzy"]::after {
+  content: url("https://micc.garmory-cdn.cloud/obrazki/npc/e2/blotniaki_milosnik_rycerzy.gif");
+  display: block;
+  margin-top: 5px;
+}
+
+/* Miłośnik magii */
+.monsters a[href*="magii"]::after {
+  content: url("https://micc.garmory-cdn.cloud/obrazki/npc/e2/blotniaki_milosnik_magii.gif");
+  display: block;
+  margin-top: 5px;
+}
+
+/* Miłośnik łowców */
+.monsters a[href*="łowców"]::after {
+  content: url("https://micc.garmory-cdn.cloud/obrazki/npc/e2/blotniaki_milosnik_lowcow.gif");
+  display: block;
+  margin-top: 5px;
+}
+
+/* Łowca czaszek */
+.monsters a[href*="czaszek"]::after,
+.monsters a[href*="ident-n296118"]::after,
+.monsters a[href*="ident-n308465"]::after,
+.monsters a[href*="ident-n308464"]::after {
+  content: url("https://micc.garmory-cdn.cloud/obrazki/npc/e2/alghul-czaszka-1a.gif");
+  display: block;
+  margin-top: 5px;
+}
+
+/* Ozirus Władca Hieroglifów */
+.monsters a[href*="Ozirus"]::after,
+.monsters a[href*="ident-n296267"]::after,
+.monsters a[href*="ident-n297225"]::after,
+.monsters a[href*="ident-n297224"]::after {
+  content: url("https://micc.garmory-cdn.cloud/obrazki/npc/e2/mumia-ozirus.gif");
+  display: block;
+  transform: scale(0.8);
+}
+
+/* Morski potwór */
+.monsters a[href*="Morski"]::after,
+.monsters a[href*="ident-n318402"]::after,
+.monsters a[href*="ident-n321430"]::after,
+.monsters a[href*="ident-n321428"]::after {
+  content: url("https://micc.garmory-cdn.cloud/obrazki/npc/e2/osmiornica-1b.gif");
+  display: block;
+  margin-top: 5px;
+}
+
+/* Krab pustelnik */
+.monsters a[href*="pustelnik"]::after,
+.monsters a[href*="ident-n318570"]::after,
+.monsters a[href*="ident-n318615"]::after,
+.monsters a[href*="ident-n318674"]::after,
+.monsters a[href*="ident-n318545"]::after,
+.monsters a[href*="ident-n318546"]::after,
+.monsters a[href*="ident-n308471"]::after,
+.monsters a[href*="ident-n308470"]::after,
+.monsters a[href*="ident-n178343"]::after,
+.monsters a[href*="ident-n318548"]::after {
+  content: url("https://micc.garmory-cdn.cloud/obrazki/npc/e2/krab_big3.gif");
+  display: block;
+  margin-top: 5px;
+}
+
+/* Borgoros Garamir III */
+.monsters a[href*="Borgoros"]::after,
+.monsters a[href*="ident-n322892"]::after,
+.monsters a[href*="ident-n322893"]::after {
+  content: url("https://micc.garmory-cdn.cloud/obrazki/npc/e2/ingotia_minotaur-7a.gif");
+  display: block;
+  margin-top: 5px;
+}
+
+/* Stworzyciel */
+.monsters a[href*="Stworzyciel"]::after,
+.monsters a[href*="ident-n318758"]::after,
+.monsters a[href*="ident-n320003"]::after,
+.monsters a[href*="Stworzyciel"]::after,
+.monsters a[href*="ident-n320004"]::after {
+  content: url("https://micc.garmory-cdn.cloud/obrazki/npc/e2/stworzyciel.gif");
+  display: block;
+  margin-top: 5px;
+}
+
+/* Ifryt */
+.monsters a[href*="Ifryt"]::after,
+.monsters a[href*="ident-n308476"]::after,
+.monsters a[href*="ident-n308477"]::after,
+.monsters a[href*="ident-n296266"]::after,
+.monsters a[href*="ident-n308477"]::after {
+  content: url("https://micc.garmory-cdn.cloud/obrazki/npc/e2/magradit_ifryt.gif");
+  display: block;
+  margin-top: 5px;
+}
+
+/* Młody Jack Truciciel */
+.monsters a[href*="Truciciel"]::after {
+  content: url("https://micc.garmory-cdn.cloud/obrazki/npc/e2/pirat01.gif");
+  display: block;
+  margin-top: 5px;
+}
+
+/* Helga Opiekunka Rumu */
+.monsters a[href*="Helga"]::after {
+  content: url("https://micc.garmory-cdn.cloud/obrazki/npc/e2/pirat-2b.gif");
+  display: block;
+  margin-top: 5px;
+}
+
+/* Henry Kaprawe Oko */
+.monsters a[href*="Henry"]::after {
+  content: url("https://micc.garmory-cdn.cloud/obrazki/npc/e1/pirat5b.gif");
+  display: block;
+  margin-top: 5px;
+}
+
+/* Eol */
+.monsters a[href*="Eol"]::after {
+  content: url("https://micc.garmory-cdn.cloud/obrazki/npc/e2/piaskowy_potwor-6a.gif");
+  display: block;
+  margin-top: 5px;
+}
+
+/* Grubber Ochlaj */
+.monsters a[href*="Grubber"]::after {
+  content: url("https://micc.garmory-cdn.cloud/obrazki/npc/e2/grubber-ochlaj.gif");
+  display: block;
+  margin-top: 5px;
+}
+
+/* Berserker Amuno */
+.monsters a[href*="Amuno"]::after {
+  content: url("https://micc.garmory-cdn.cloud/obrazki/npc/e2/amuno.gif");
+  display: block;
+  margin-top: 5px;
+}
+
+/* Wójt Fistuła */
+.monsters a[href*="Fistuła"]::after {
+  content: url("https://micc.garmory-cdn.cloud/obrazki/npc/e2/goral-e2-wojt-fistula.gif");
+  display: block;
+  margin-top: 5px;
+}
+
+/* Teściowa Rumcajsa */
+.monsters a[href*="Teściowa"]::after,
+.monsters a[href*="ident-n308475"]::after,
+.monsters a[href*="ident-n308474"]::after,
+.monsters a[href*="ident-n23606"]::after {
+  content: url("https://micc.garmory-cdn.cloud/obrazki/npc/e2/goral-e2-tesciowa-rumcajsa.gif");
+  display: block;
+  margin-top: 5px;
+}
+
+/* Mistrz Worundriel */
+.monsters a[href*="Worundriel"]::after {
+  content: url("https://micc.garmory-cdn.cloud/obrazki/npc/e2/worundriel02.gif");
+  display: block;
+  margin-top: 5px;
+}
+
+/* Goons Asterus */
+.monsters a[href*="Asterus"]::after {
+  content: url("https://micc.garmory-cdn.cloud/obrazki/npc/e2/mechgoblin4.gif");
+  display: block;
+  margin-top: 5px;
+}
+
+/* 150-200 */
+
+/* Adariel */
+.monsters a[href*="Adariel"]::after {
+  content: url("https://micc.garmory-cdn.cloud/obrazki/npc/e2/tri_adariel.gif");
+  display: block;
+  margin-top: 5px;
+}
+
+/* Duch Władcy Klanów */
+.monsters a[href*="Duch Władcy Klanów"]::after {
+  content: url("https://micc.garmory-cdn.cloud/obrazki/npc/e2/duch_wladcy_kl.gif");
+  display: block;
+  margin-top: 5px;
+}
+
+/* Burkog Lorulk */
+.monsters a[href*="Burkog"]::after {
+  content: url("https://micc.garmory-cdn.cloud/obrazki/npc/e2/orkczd.gif");
+  display: block;
+  margin-top: 5px;
+}
+
+/* Ogr Stalowy Pazur */
+.monsters a[href*="Ogr"]::after {
+  content: url("https://micc.garmory-cdn.cloud/obrazki/npc/e2/ogr_drapak.gif");
+  display: block;
+  margin-top: 5px;
+}
+
+/* Bragarth Myśliwy Dusz */
+.monsters a[href*="Bragarth"]::after {
+  content: url("https://micc.garmory-cdn.cloud/obrazki/npc/e2/praork_low_elita.gif");
+  display: block;
+  margin-top: 5px;
+}
+/* Fursharag Pożeracz Umysłówl */
+.monsters a[href*="Fursharag"]::after {
+  content: url("https://micc.garmory-cdn.cloud/obrazki/npc/e2/praork_mag_elita.gif");
+  display: block;
+  margin-top: 5px;
+}
+
+/* Ziuggrael Strażnik Królowej */
+.monsters a[href*="Ziuggrael"]::after {
+  content: url("https://micc.garmory-cdn.cloud/obrazki/npc/e2/praork_woj_elita.gif");
+  display: block;
+  margin-top: 5px;
+}
+
+/* Lusgrathera Królowa Pramatka */
+.monsters a[href*="Lusgrathera"]::after {
+  content: url("https://micc.garmory-cdn.cloud/obrazki/npc/e2/prakrolowa.gif");
+  display: block;
+  margin-top: 5px;
+}
+
+/* Królowa Śniegu */
+.monsters a[href*="Śniegu"]::after {
+  content: url("https://micc.garmory-cdn.cloud/obrazki/npc/e2/krolowa-sniegu.gif");
+  display: block;
+  margin-top: 5px;
+}
+
+/* Chryzoprenia */
+.monsters a[href*="Chryzoprenia"]::after {
+  content: url("https://micc.garmory-cdn.cloud/obrazki/npc/e2/chryzoprenia.gif");
+  display: block;
+  margin-top: 5px;
+}
+/* Cerasus */
+.monsters a[href*="Cerasus"]::after {
+  content: url("https://micc.garmory-cdn.cloud/obrazki/npc/e2/drzewoe2.gif");
+  display: block;
+  margin-top: 5px;
+}
+
+/* Czempion Furboli */
+.monsters a[href*="Furboli"]::after {
+  content: url("https://micc.garmory-cdn.cloud/obrazki/npc/e2/forbol03.gif");
+  display: block;
+  margin-top: 5px;
+}
+
+/* Torunia Ankelwald */
+.monsters a[href*="Torunia"]::after {
+  content: url("https://micc.garmory-cdn.cloud/obrazki/npc/e2/thuz-patr1.gif");
+  display: block;
+  margin-top: 5px;
+}
+
+/* Breheret Żelazny Łeb */
+.monsters a[href*="Breheret"]::after {
+  content: url("https://micc.garmory-cdn.cloud/obrazki/npc/e2/draki-breheret-1b.gif");
+  display: block;
+  margin-top: 5px;
+}
+
+/* Mysiur Myświórowy Król */
+.monsters a[href*="Mysiur"]::after {
+  content: url("https://micc.garmory-cdn.cloud/obrazki/npc/e2/krolszczur.gif");
+  display: block;
+  margin-top: 5px;
+}
+
+/* Sadolia Nadzorczyni Hurys */
+.monsters a[href*="Sadolia"]::after {
+  content: url("https://micc.garmory-cdn.cloud/obrazki/npc/e2/sekta-sadolia.gif");
+  display: block;
+  margin-top: 5px;
+}
+
+/* Gothardus Kolekcjoner Głów */
+.monsters a[href*="Gothardus"]::after {
+  content: url("https://micc.garmory-cdn.cloud/obrazki/npc/e2/sekta-gothardus.gif");
+  display: block;
+  margin-top: 5px;
+}
+
+/* 200-250 */
+
+ /* Annaniel Wysysacz Marzeń */
+ .monsters a[href*="Annaniel"]::after,
+ .monsters a[href*="ident-n308532"]::after {
+   content: url("https://micc.garmory-cdn.cloud/obrazki/npc/e2/sekta-annaniel.gif");
+   display: block;
+   margin-top: 5px;
+ }
+
+/* Sataniel Skrytobójca */
+.monsters a[href*="Sataniel"]::after {
+  content: url("https://micc.garmory-cdn.cloud/obrazki/npc/e2/sekta-sataniel.gif");
+  display: block;
+  margin-top: 5px;
+}
+
+/* Bergermona Krwawa Hrabina */
+.monsters a[href*="Bergermona"]::after {
+  content: url("https://micc.garmory-cdn.cloud/obrazki/npc/e2/sekta-bergermona.gif");
+  display: block;
+  margin-top: 5px;
+}
+
+/* Zufulus Smakosz Serc */
+.monsters a[href*="Zufulus"]::after {
+  content: url("https://micc.garmory-cdn.cloud/obrazki/npc/e2/sekta-zufulus.gif");
+  display: block;
+  margin-top: 5px;
+}
+
+/* Mocny Maddoks */
+.monsters a[href*="Maddoks"]::after {
+  content: url("https://micc.garmory-cdn.cloud/obrazki/npc/e2/maddok5.gif");
+  display: block;
+  margin-top: 5px;
+}
+
+/* Pancerny Maddok */
+.monsters a[href*="Pancerny Maddok"]::after {
+  content: url("https://micc.garmory-cdn.cloud/obrazki/npc/e2/maddok_roz.gif");
+  display: block;
+  margin-top: 5px;
+}
+
+/* Silvanasus  */
+.monsters a[href*="Silvanasus"]::after {
+  content: url("https://micc.garmory-cdn.cloud/obrazki/npc/e2/silvanasus.gif");
+  display: block;
+  margin-top: 5px;
+}
+
+/* Dendroculus */
+.monsters a[href*="Dendroculus"]::after {
+  content: url("https://micc.garmory-cdn.cloud/obrazki/npc/e2/dendroculus.gif");
+  display: block;
+  margin-top: 5px;
+}
+
+/* Tolypeutes */
+.monsters a[href*="Tolypeutes"]::after {
+  content: url("https://micc.garmory-cdn.cloud/obrazki/npc/e2/bolita.gif");
+  display: block;
+  margin-top: 5px;
+}
+
+/* Cuaitl Citlalin */
+.monsters a[href*="Cuaitl"]::after {
+  content: url("https://micc.garmory-cdn.cloud/obrazki/npc/e2/maho-cuaitl.gif");
+  display: block;
+  margin-top: 5px;
+}
+
+/* 250-300 */
+
+/* Pogardliwa Sybilla */
+.monsters a[href*="Sybilla"]::after {
+  content: url("https://micc.garmory-cdn.cloud/obrazki/npc/e2/tri2_witch_e2.gif");
+  display: block;
+  margin-top: 5px;
+}
+
+/* Yaotl */
+.monsters a[href*="Yaotl"]::after {
+  content: url("https://micc.garmory-cdn.cloud/obrazki/npc/e2/mahoplowca.gif");
+  display: block;
+  margin-top: 5px;
+}
+
+/* Quetzalcoatl */
+.monsters a[href*="Quetzalcoatl"]::after {
+  content: url("https://micc.garmory-cdn.cloud/obrazki/npc/e2/quetzalcoatl.gif");
+  display: block;
+  margin-top: 5px;
+}
+
+/* Chopesz */
+.monsters a[href*="Chopesz"]::after {
+  content: url("https://micc.garmory-cdn.cloud/obrazki/npc/e2/chopesh2.gif");
+  display: block;
+  margin-top: 5px;
+}
+
+/* Neferkar Set */
+.monsters a[href*="Neferkar"]::after {
+  content: url("https://micc.garmory-cdn.cloud/obrazki/npc/e2/szkiel_set.gif");
+  display: block;
+  margin-top: 5px;
+}
+
+/* Terrozaur */
+.monsters a[href*="Terrozaur"]::after {
+  content: url("https://micc.garmory-cdn.cloud/obrazki/npc/e2/terrorzaur_pus.gif");
+  display: block;
+  margin-top: 5px;
+}
+/* Vaenra Charkhaam */
+.monsters a[href*="Vaenra"]::after {
+  content: url("https://micc.garmory-cdn.cloud/obrazki/npc/e2/bar_smoczyca.gif");
+  display: block;
+  margin-top: 5px;
+}
+
+/* Chaegd Agnrakh */
+.monsters a[href*="Chaegd"]::after {
+  content: url("https://micc.garmory-cdn.cloud/obrazki/npc/e2/bar_smokoszef.gif");
+  display: block;
+  margin-top: 5px;
+}
+
+/* Nymphemonia */
+.monsters a[href*="Nymphemonia"]::after {
+  content: url("https://micc.garmory-cdn.cloud/obrazki/npc/e2/nymphemonia.gif");
+  display: block;
+  margin-top: 5px;
+}
+
+/* Artenius */
+.monsters a[href*="Artenius"]::after {
+  content: url("https://micc.garmory-cdn.cloud/obrazki/npc/e2/wl-mrozu03.gif");
+  display: block;
+  margin-top: 5px;
+}
+
+/* Furion */
+.monsters a[href*="Furion"]::after {
+  content: url("https://micc.garmory-cdn.cloud/obrazki/npc/e2/wl-mrozu02.gif");
+  display: block;
+  margin-top: 5px;
+}
+
+/* Zorin */
+.monsters a[href*="Zorin"]::after {
+  content: url("https://micc.garmory-cdn.cloud/obrazki/npc/e2/wl-mrozu01.gif");
+  display: block;
+  margin-top: 5px;
+}
+
+/* HEROSI */
+
+/* Domina */
+.monsters a[href*="Domina"]::after {
+  content: url("https://micc.garmory-cdn.cloud/obrazki/npc/her/domina.gif");
+  display: block;
+  margin-top: 5px;
+}
+
+/* Mroczny Patryk */
+.monsters a[href*="Patryk"]::after {
+  content: url("https://micc.garmory-cdn.cloud/obrazki/npc/her/bardzozlypatryk.gif");
+  display: block;
+  margin-top: 5px;
+}
+
+/* Karmazynowy Mściciel */
+.monsters a[href*="Karmazynowy"]::after {
+  content: url("https://micc.garmory-cdn.cloud/obrazki/npc/her/gnom_msciciel.gif");
+  display: block;
+  margin-top: 5px;
+}
+
+/* Złodziej */
+.monsters a[href*="Złodziej"]::after {
+  content: url("https://micc.garmory-cdn.cloud/obrazki/npc/her/zlodziej.gif");
+  display: block;
+  margin-top: 5px;
+}
+/* Zły Przewodnik */
+.monsters a[href*="Przewodnik"]::after {
+  content: url("https://micc.garmory-cdn.cloud/obrazki/npc/her/mnich-zly2.gif");
+  display: block;
+  margin-top: 5px;
+}
+
+/* Opętany Paladyn */
+.monsters a[href*="Opętany"]::after {
+  content: url("https://micc.garmory-cdn.cloud/obrazki/npc/her/opetanypaladyn02.gif");
+  display: block;
+  margin-top: 5px;
+}
+
+/* Piekielny Kościej */
+.monsters a[href*="Kościej"]::after {
+  content: url("https://micc.garmory-cdn.cloud/obrazki/npc/her/piekielny_kosciej.gif");
+  display: block;
+  margin-top: 5px;
+}
+
+/* Koziec Mąciciel Ścieżek */
+.monsters a[href*="Koziec"]::after {
+  content: url("https://micc.garmory-cdn.cloud/obrazki/npc/her/koziec_maciciel_sciezek.gif");
+  display: block;
+  margin-top: 5px;
+}
+
+/* Kochanka Nocy */
+.monsters a[href*="Kochanka Nocy"]::after {
+  content: url("https://micc.garmory-cdn.cloud/obrazki/npc/her/kochanka-nocy.gif");
+  display: block;
+  margin-top: 5px;
+}
+
+/* Książę Kasim */
+.monsters a[href*="Książę"]::after {
+  content: url("https://micc.garmory-cdn.cloud/obrazki/npc/her/ksiaze-kasim.gif");
+  display: block;
+  margin-top: 5px;
+}
+
+/* Brat */
+.monsters a[href*="Braciszek"]::after {
+  content: url("https://micc.garmory-cdn.cloud/obrazki/npc/her/sw_braciszek.gif");
+  display: block;
+  margin-top: 5px;
+}
+
+/* Złoty Roger */
+.monsters a[href*="Złoty Roger"]::after {
+  content: url("https://micc.garmory-cdn.cloud/obrazki/npc/her/szkielet_pirata.gif");
+  display: block;
+  margin-top: 5px;
+}
+
+/* Baca bez Łowiec */
+.monsters a[href*="Baca bez Łowiec"]::after {
+  content: url("https://micc.garmory-cdn.cloud/obrazki/npc/her/baca-bez-lowiec.gif");
+  display: block;
+  margin-top: 5px;
+}
+
+/* Czarująca Atalia */
+.monsters a[href*="Czarująca Atalia"]::after {
+  content: url("https://micc.garmory-cdn.cloud/obrazki/npc/her/tri_atalia.gif");
+  display: block;
+  margin-top: 5px;
+}
+
+/* Obłąkany Łowca Orków */
+.monsters a[href*="Obłąkany"]::after {
+  content: url("https://micc.garmory-cdn.cloud/obrazki/npc/her/oblakany_ac1dae9d.gif");
+  display: block;
+  margin-top: 5px;
+}
+
+/* Lichwiarz */
+.monsters a[href*="Lichwiarz"]::after {
+  content: url("https://micc.garmory-cdn.cloud/obrazki/npc/her/lichwiarz_grauhaz.gif");
+  display: block;
+  margin-top: 5px;
+}
+
+/* Viviana Nandin */
+.monsters a[href*="Viviana"]::after {
+  content: url("https://micc.garmory-cdn.cloud/obrazki/npc/her/viv_nandin_i3bd1.gif");
+  display: block;
+  margin-top: 5px;
+}
+
+/* Mulher Ma */
+.monsters a[href*="Mulher"]::after {
+  content: url("https://micc.garmory-cdn.cloud/obrazki/npc/her/mulher_ma.gif");
+  display: block;
+  margin-top: 5px;
+}
+
+/* Demonis Pan Nicości */
+.monsters a[href*="Demonis"]::after {
+  content: url("https://micc.garmory-cdn.cloud/obrazki/npc/her/sekta_demon_cz_s.gif");
+  display: block;
+  margin-top: 5px;
+}
+
+/* Vapor Veneno */
+.monsters a[href*="Vapor"]::after {
+  content: url("  https://micc.garmory-cdn.cloud/obrazki/npc/her/joziniec_bagienny.gif");
+  display: block;
+  margin-top: 5px;
+}
+/* Dęborożec */
+.monsters a[href*="Dęborożec"]::after {
+  content: url("https://micc.garmory-cdn.cloud/obrazki/npc/her/zwierz_kniei.gif");
+  display: block;
+  margin-top: 5px;
+}
+
+/* Tepeyollotl */
+.monsters a[href*="Tepeyollotl"]::after {
+  content: url("https://micc.garmory-cdn.cloud/obrazki/npc/her/tep_35ecb966.gif");
+  display: block;
+  margin-top: 5px;
+}
+/* Negthotep Czarny Kapłan */
+.monsters a[href*="Negthotep"]::after {
+  content: url("https://micc.garmory-cdn.cloud/obrazki/npc/her/negthotep.gif");
+  display: block;
+  margin-top: 5px;
+}
+/* Młody Smok */
+.monsters a[href*="Smok"]::after {
+  content: url("https://micc.garmory-cdn.cloud/obrazki/npc/her/smokbarb.gif");
+  display: block;
+  margin-top: 5px;
+}
+
+/* KOLOSY */
+
+/* Mamlambo */
+.monsters a[href*="Mamlambo"]::after {
+  content: url("https://micc.garmory-cdn.cloud/obrazki/npc/kol/mamlambo_final2.gif");
+  display: block;
+  margin-top: 5px;
+}
+
+/* Regulus Mętnooki */
+.monsters a[href*="Regulus"]::after {
+  content: url("https://micc.garmory-cdn.cloud/obrazki/npc/kol/bazyliszek.gif");
+  display: block;
+  margin-top: 5px;
+}
+
+/* Amaimon Soploręki */
+.monsters a[href*="Soploręki"]::after {
+  content: url("https://micc.garmory-cdn.cloud/obrazki/npc/kol/soploreki.gif");
+  display: block;
+  transform: scale(0.8);
+}
+
+/* Umibozu */
+.monsters a[href*="Umibozu"]::after {
+  content: url("https://micc.garmory-cdn.cloud/obrazki/npc/kol/kolos-wodnik.gif");
+  display: block;
+  transform: scale(0.8);
+}
+
+/* Amaimon Soploręki */
+.monsters a[href*="Soploręki"]::after {
+  content: url("https://micc.garmory-cdn.cloud/obrazki/npc/kol/soploreki.gif");
+  display: block;
+  margin-top: 5px;
+}
+
+/* Vashkar */
+.monsters a[href*="Vashkar"]::after {
+  content: url("https://micc.garmory-cdn.cloud/obrazki/npc/kol/kolos-wazka.gif");
+  display: block;
+  margin-top: 5px;
+}
+
+/* Hydrokora Chimeryczna */
+.monsters a[href*="Hydrokora"]::after {
+  content: url("https://micc.garmory-cdn.cloud/obrazki/npc/kol/hydrokora.gif");
+  display: block;
+  margin-top: 5px;
+}
+
+/* Lulukav */
+.monsters a[href*="Lulukav"]::after {
+  content: url("https://micc.garmory-cdn.cloud/obrazki/npc/kol/kolkrucz.gif");
+  display: block;
+  margin-top: 5px;
+}
+
+/* Arachin Podstępny */
+.monsters a[href*="Arachin"]::after {
+  content: url("https://micc.garmory-cdn.cloud/obrazki/npc/kol/kolos-pajak.gif");
+  display: block;
+  margin-top: 5px;
+}
+
+/* Reuzen */
+.monsters a[href*="Reuzen"]::after {
+  content: url("https://micc.garmory-cdn.cloud/obrazki/npc/kol/kolos-dendro.gif");
+  display: block;
+  margin-top: 5px;
+}
+
+/* Wernoradzki Drakolisz */
+.monsters a[href*="Drakolisz"]::after {
+  content: url("https://micc.garmory-cdn.cloud/obrazki/npc/kol/kolos-drakolisz.gif");
+  display: block;
+  margin-top: 5px;
+}
+
+/* TYTANI */
+
+/* Dziewicza Orlica */
+.monsters a[href*="Orlica"]::after {
+  content: url("https://micc.garmory-cdn.cloud/obrazki/npc/tyt/dziewicza_orlica.gif");
+  display: block;
+  margin-top: 5px;
+}
+
+/* Zabójczy Królik */
+.monsters a[href*="Królik"]::after {
+  content: url("https://micc.garmory-cdn.cloud/obrazki/npc/tyt/zabojczy_krolik.gif");
+  display: block;
+  margin-top: 5px;
+}
+
+/* Renegat Baulus */
+.monsters a[href*="Baulus"]::after {
+  content: url("https://micc.garmory-cdn.cloud/obrazki/npc/tyt/renegat_baulus.gif");
+  display: block;
+  margin-top: 5px;
+}
+
+/* Piekielny Arcymag */
+.monsters a[href*="Arcymag"]::after {
+  content: url("https://micc.garmory-cdn.cloud/obrazki/npc/tyt/archdemon.gif");
+  display: block;
+  margin-top: 5px;
+}
+/* Versus Zoons */
+.monsters a[href*="Zoons"]::after {
+  content: url("https://micc.garmory-cdn.cloud/obrazki/npc/tyt/titangoblin.gif");
+  display: block;
+  margin-top: 5px;
+}
+/* Łowczyni Wspomnień */
+.monsters a[href*="Łowczyni"]::after {
+  content: url("https://micc.garmory-cdn.cloud/obrazki/npc/tyt/lowcz-wspo-driady.gif");
+  display: block;
+  margin-top: 5px;
+}
+/* Przyzywacz Demonów */
+.monsters a[href*="Przyzywacz"]::after {
+  content: url("https://micc.garmory-cdn.cloud/obrazki/npc/tyt/przyz_demon_sekta.gif");
+  display: block;
+  margin-top: 5px;
+}
+/* Maddok Magua */
+.monsters a[href*="Magua"]::after {
+  content: url("https://micc.garmory-cdn.cloud/obrazki/npc/tyt/maddok-tytan.gif");
+  display: block;
+  margin-top: 5px;
+}
+/* Tezcatlipoca */
+.monsters a[href*="Tezcatlipoca"]::after {
+  content: url("https://micc.garmory-cdn.cloud/obrazki/npc/tyt/tezcatlipoca.gif");
+  display: block;
+  margin-top: 5px;
+}
+/* Barbatos Smoczy Strażnik */
+.monsters a[href*="Barbatos Smoczy Strażnik"]::after {
+  content: url("https://micc.garmory-cdn.cloud/obrazki/npc/tyt/hebrehoth_smokoludzie.gif");
+  display: block;
+  margin-top: 5px;
+}
+/* Tanroth */
+.monsters a[href*="Tanroth"]::after {
+  content: url("https://micc.garmory-cdn.cloud/obrazki/npc/tyt/ice_king.gif");
+  display: block;
+  margin-top: 5px;
+}
+
+.monsters a[href*="Dziewicza Orlica"],
+.monsters a[href*="Zabójczy Królik"],
+.monsters a[href*="Renegat Baulus"],
+.monsters a[href*="Piekielny Arcymag"],
+.monsters a[href*="Versus Zoons"],
+.monsters a[href*="Łowczyni Wspomnień"],
+.monsters a[href*="Przyzywacz Demonów"],
+.monsters a[href*="Maddok Magua"],
+.monsters a[href*="Tezcatlipoca"],
+.monsters a[href*="Barbatos Smoczy Strażnik"],
+.monsters a[href*="Tanroth"] {
+  color: red;
+}
+
+.monsters a[href*="Mamlambo"],
+.monsters a[href*="Regulus Mętnooki"],
+.monsters a[href*="Amaimon Soploręki"],
+.monsters a[href*="Umibozu"],
+.monsters a[href*="Vashkar"],
+.monsters a[href*="Hydrokora Chimeryczna"],
+.monsters a[href*="Lulukav"],
+.monsters a[href*="Arachin Podstępny"],
+.monsters a[href*="Reuzen"],
+.monsters a[href*="Wernoradzki Drakolisz"] {
+  color: #809912;
+}
+
+.monsters a[href*="Domina Ecclesiae"],
+.monsters a[href*="Mietek Żul"],
+.monsters a[href*="Mroczny Patryk"],
+.monsters a[href*="Karmazynowy Mściciel"],
+.monsters a[href*="Złodziej"],
+.monsters a[href*="Zły Przewodnik"],
+.monsters a[href*="Opętany Paladyn"],
+.monsters a[href*="Piekielny Kościej"],
+.monsters a[href*="Koziec Mąciciel Ścieżek"],
+.monsters a[href*="Kochanka Nocy"],
+.monsters a[href*="Książę"],
+.monsters a[href*="Święty Braciszek"],
+.monsters a[href*="Złoty Roger"],
+.monsters a[href*="Baca bez Łowiec"],
+.monsters a[href*="Czarująca Atalia"],
+.monsters a[href*="Obłąkany Łowca Orków"],
+.monsters a[href*="Lichwiarz Grauhaz"],
+.monsters a[href*="Viviana Nandin"],
+.monsters a[href*="Mulher Ma"],
+.monsters a[href*="Demonis Pan Nicości"],
+.monsters a[href*="Vapor Veneno"],
+.monsters a[href*="Dęborożec"],
+.monsters a[href*="Tepeyollotl"],
+.monsters a[href*="Negthotep Czarny Kapłan"],
+.monsters a[href*="Młody Smok"] {
+  color: gold;
+}
